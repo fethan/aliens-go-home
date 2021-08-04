@@ -56,7 +56,7 @@ const Leaderboard = (props) => {
         </g>
     );
 };
-
+// fdsa
 Leaderboard.propTypes = {
     currentPlayer: PropTypes.shape({
         id: PropTypes.string.isRequired,
